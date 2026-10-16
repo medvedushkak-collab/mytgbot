@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.slnx
+*.sln
+*.vsidx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Секреты
+config.py
+.env
+*.token
+
+# Прочее
+.DS_Store
+Thumbs.db
